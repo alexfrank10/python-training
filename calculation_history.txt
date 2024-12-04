@@ -1,0 +1,3 @@
+Solved equation '2*x+2=4': x = 1
+Solved equation '2*x+2=4': x = [1]
+Solved equation '2*x+2=4': x = [1]
